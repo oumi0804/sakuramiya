@@ -1,0 +1,9 @@
+discord.py[voice]
+flask
+flask-discord
+ImageHash
+pya3rt
+pillow
+arrow
+pymongo
+colorama

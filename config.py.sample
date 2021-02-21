@@ -1,0 +1,7 @@
+DISCORD_TOKEN = "discord_bot_token"
+DB_USER = "username"
+DB_PASSWORD = "password"
+DB_NAME = "table_name"
+DB_HOST = "db_bost"
+DB_PORT = 00000
+IS_DEBUG = False
