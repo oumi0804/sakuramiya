@@ -58,7 +58,7 @@ class Admin(commands.Cog):
                       description="条件に当たる人が見つかりませんでした",
                       color=0xff0000)
             await ctx.send(embed=embed)
-            break
+            return
         embed = discord.Embed(title="メンバー一覧",
                               description=', '.join(rolemembers),
                               color=0xeeeeee)
