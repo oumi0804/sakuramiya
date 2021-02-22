@@ -5,3 +5,6 @@ DB_NAME = "table_name"
 DB_HOST = "db_bost"
 DB_PORT = 00000
 IS_DEBUG = False
+
+DEFAULT_PREFIX = "sd!"
+STATUS_MESSAGE = [""]
